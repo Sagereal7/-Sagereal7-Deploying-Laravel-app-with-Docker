@@ -8,8 +8,8 @@
 - [1] Write a dockerfile for the laravel app
 - [2] Write a docker compose file for the services involved in the laravel
 - [3] Mount a volume to write;
-   - 1. A real time log entry
-   - 1. Mysql data
+   -  A real time log entry
+   -  Mysql data
 
 **Name these directories whatever you like.**
 
